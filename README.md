@@ -79,3 +79,5 @@ The implementation runs entirely in the terminal and focuses on clarity of gamep
 
 ## Contributers
 -Anubhav Suri https://github.com/Surianubhav
+-Vedant Agarwal https://github.com/Vedant0527
+-Abhinav Saini https://github.com/AbhinavSaini18
