@@ -78,6 +78,7 @@ MyBot uses custom decision logic that determines when to bet, raise, call, or ch
 The implementation runs entirely in the terminal and focuses on clarity of gameplay and state transitions. It does not include side pot logic or advanced opponent modeling, but provides a clean and functional base for further AI improvements.
 
 ## Contributers
+
 -Anubhav Suri https://github.com/Surianubhav
 -Vedant Agarwal https://github.com/Vedant0527
 -Abhinav Saini https://github.com/AbhinavSaini18
